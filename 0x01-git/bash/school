@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 The school is open!
 echo School
@@ -6,3 +7,13 @@ echo School
 #!/bin/bashl
 echo "The school is open!"
 >>>>>>> update_script
+=======
+update_script
+#!/bin/bashl
+echo "The school is open!"
+
+#!/bin/bash
+The school is open!
+echo School
+master
+>>>>>>> 0b4fbde886da02720e4ade523315e5eb74bfffb7
