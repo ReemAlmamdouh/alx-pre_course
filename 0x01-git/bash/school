@@ -1,3 +1,8 @@
+update_script
+#!/bin/bashl
+echo "The school is open!"
+
 #!/bin/bash
 The school is open!
 echo School
+master
